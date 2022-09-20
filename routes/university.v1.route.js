@@ -1,14 +1,14 @@
 const express = require('express');
 const router = express.Router();
 
-const universityController = require('../controllers/university.controller');
+const universityV1Controller = require('../controllers/university.v1.controller');
 
 router.get('/', async (req, res) => {
-  await universityController.find(req, res);
+  await universityV1Controller.find(req, res);
 });
 
 router.post('/', async (req, res) => {
-  await universityController.create(req, res);
+  await universityV1Controller.create(req, res);
 });
 
 module.exports = router;
