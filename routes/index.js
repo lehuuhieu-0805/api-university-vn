@@ -1,7 +1,7 @@
 const universityRouter = require('./university.route');
 
 function route(app) {
-  app.get('/api', (req, res) => {
+  app.get('/', (req, res) => {
     res.send('Hello World');
   });
 
