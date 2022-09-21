@@ -42,7 +42,7 @@ const url = 'https://eduplus.edu.vn/danh-sach-cac-truong-dai-hoc-tren-toan-quoc/
   });
 
   // store data in file json
-  fs.writeFileSync('universities-vn.json', JSON.stringify(universities));
+  fs.writeFileSync('dataset-universities-vn.json', JSON.stringify(universities));
 
   // call api to store data in database
   // Promise.all(universities.map(async (university, index) => {
