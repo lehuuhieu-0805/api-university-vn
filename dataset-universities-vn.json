@@ -1,6 +1,6 @@
 [
   {
-    "name": "Đại học Quốc gia Hà Nội:",
+    "name": "Đại học Quốc gia Hà Nội",
     "short_name": "VNU",
     "code_university": "QHF",
     "address": "144 Xuân Thủy, Mai Dịch, Cầu Giấy, Hà Nội"
@@ -942,7 +942,7 @@
     "address": "28 Nguyễn Tri Phương, Phú Hội, Thành phố Huế, Thừa Thiên Huế"
   },
   {
-    "name": "Đại học Huế:",
+    "name": "Đại học Huế",
     "short_name": "HUEUNI",
     "code_university": null,
     "address": "03 Lê Lợi – TP Huế"
@@ -1014,7 +1014,7 @@
     "address": "Số 201, đường Phan Bội Châu, TP. Huế, tỉnh Thừa Thiên Huế."
   },
   {
-    "name": "Đại học Đà Nẵng:",
+    "name": "Đại học Đà Nẵng",
     "short_name": "UDN",
     "code_university": "GD33",
     "address": "41 Lê Duẩn, Hải Châu 1, Hải Châu, Đà Nẵng"
@@ -1326,7 +1326,7 @@
     "address": "Lê Văn Hưu, P. Bắc Sơn, Sầm Sơn, Thanh Hoá"
   },
   {
-    "name": "Đại học Quốc gia Thành phố Hồ Chí Minh:",
+    "name": "Đại học Quốc gia Thành phố Hồ Chí Minh",
     "short_name": "VNUHCM",
     "code_university": null,
     "address": "P. Linh Trung, Q. Thủ Đức, TP.HCM"
